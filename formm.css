@@ -1,0 +1,31 @@
+form{
+    background-color: darkcyan;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 30px;
+    float-wrap: wrap;
+
+}
+h1{
+    text-align: center;
+}
+input[type=text],[type=date]{
+width: 40%;
+    height: 30px;
+    border-radius: 5px;
+    margin: auto;
+}
+select{
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+    margin: auto;
+}
+button{
+    background-color: bisque;
+}
+div{
+    display: flex;
+}
